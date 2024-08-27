@@ -1,0 +1,7 @@
+@import './base.css';
+
+/* Add global project styles here */
+
+* {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

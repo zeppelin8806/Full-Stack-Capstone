@@ -1,0 +1,13 @@
+https://www.figma.com/design/DVybq4mbLMwEaLYm8e1S3C/Stormlight-Final?node-id=0-1&m=dev&t=v88b3PfDZwcNyikU-1
+
+Below are my functional requirements for the final project. I am continuing from my Mod 2 final project where I am make a pseudo wiki page for a fantasy book series.
+As an authenticated user, I can view, add and edit characters and characters information on the Characters site by clicking the edit button.
+As an authenticated user, I can view, add and edit shards and shard information on the Shards site by clicking the edit button.
+As an authenticated user, I can view, add and edit characters relation to the Knights Radiant site by clicking the edit button.
+As an authenticated user, I can edit the Knights Radiant site, but can not delete.
+As an authenticated user, I can edit the population about a location on the location site.
+As an anonymous or authenticated user, I can view the Knights Radiant site.
+As an anonymous or authenticated user, I can view the Locations site.
+As an anonymous user, I can view the Characters site.
+As an anonymous user, I can view the Shards site.
+As an anonymous or authenticated user, I can sign up for weekly email notifications.
