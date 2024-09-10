@@ -13,4 +13,10 @@ to perform debugging tasks and ensure code reliability and performance.
 
 If you would like to download and run my project. Please follow the following steps:
 
-- 
+- Create a new database from the server>database>m2_final_project file.
+- Open the backend Java from the pom.xml and run server>src>main>java>com>techelevator>Application
+
+If you see the following below, you've successfully downloaded and started up the backend and database!
+
+
+![image](https://github.com/user-attachments/assets/ca23c82e-e460-4474-8189-8d1c3de858d7)
