@@ -23,4 +23,11 @@ If you see the following, you've successfully downloaded and started up the back
 
 ## Frontend Instructions
 
--Once you've downloaded and started the backend, open
+- Once you've downloaded and started the backend, open the client folder in your code editing software.
+- In the terminal, enter npm install
+- Once all the nodes are installed, enter npm run dev
+- Click on the link, and the web application will open in your web browser
+
+### CONGRADULATIONS!!
+
+You can now view and play with my final capstone project. Have fun!
